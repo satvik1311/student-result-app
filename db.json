@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "d1e9",
+      "name": "Satvik Gaur",
+      "section": "3f",
+      "marks": 95,
+      "grade": "A+"
+    },
+    {
+      "id": "5b0d",
+      "name": "Divyansh Chaudhary",
+      "section": "3F",
+      "marks": 90,
+      "grade": "A+"
+    },
+    {
+      "id": "9042",
+      "name": "Bhavya Jain",
+      "section": "3f",
+      "marks": 80,
+      "grade": "A"
+    }
+  ]
+}
